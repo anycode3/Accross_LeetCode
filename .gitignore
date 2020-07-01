@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+.vscode/launch.json
+.vscode/tasks.json
+1011/1011.在-d-天内送达包裹的能力
+.gitignore
